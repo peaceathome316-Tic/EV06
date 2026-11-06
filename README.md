@@ -1,6 +1,6 @@
 # Accidentalidad vial en Bogotá: diagnóstico de calidad de datos
 
-**Aprendiz:** _tu nombre_ · **Ficha:** _tu ficha_ · **Actividad:** GA1-220501094-01-AA1-EV06 (SENA)
+**Aprendiz:** David Vargas Franco · **Ficha:** 3169901 · **Actividad:** GA1-220501094-01-AA1-EV06 
 
 ## Propósito
 Realizar un diagnóstico inicial de calidad de los datasets del proyecto (estructura, tipos de datos, valores faltantes e inconsistencias) antes de iniciar el análisis, y documentar las acciones de limpieza propuestas. En esta etapa **no se limpian los datos**: se diagnostican y se documentan.
@@ -38,8 +38,8 @@ Los archivos de datos **no se suben al repositorio** (están en `.gitignore`) po
 Requisitos: Python 3.12 o superior y Git.
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
-cd <carpeta_del_repositorio>
+git clone <https://github.com/peaceathome316-Tic/EV06.git>
+cd <accidentalidad-Colombia>
 python -m venv .venv
 .venv\Scripts\activate             # macOS/Linux: source .venv/bin/activate
 python -m pip install -r requirements.txt

@@ -1,6 +1,6 @@
 # Informe técnico: diagnóstico de calidad de datos
 
-**Proyecto:** Accidentalidad vial en Bogotá · **Aprendiz:** _tu nombre_ · **Ficha:** _tu ficha_
+**Proyecto:** Accidentalidad vial en Bogotá · **Aprendiz:** david vargas franco · **Ficha:** 3169901
 
 ## 1. Pregunta analítica
 ¿A qué horas, en qué días y en qué localidades ocurren más accidentes de tránsito (y muertes por accidentes) en Bogotá, y qué medio de transporte está más involucrado?
